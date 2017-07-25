@@ -1,0 +1,13 @@
+E:\Arview\SummerTestApp\SummerTestApp\bin\Debug\SummerTestApp.dll
+E:\Arview\SummerTestApp\SummerTestApp\bin\Debug\SummerTestApp.pdb
+E:\Arview\SummerTestApp\SummerTestApp\bin\Debug\SummerTestApp.SummerTestApp.apk
+E:\Arview\SummerTestApp\SummerTestApp\bin\Debug\SummerTestApp.SummerTestApp-Signed.apk
+E:\Arview\SummerTestApp\SummerTestApp\obj\Debug\SummerTestApp.csprojResolveAssemblyReference.cache
+E:\Arview\SummerTestApp\SummerTestApp\obj\Debug\SummerTestApp.dll
+E:\Arview\SummerTestApp\SummerTestApp\obj\Debug\SummerTestApp.pdb
+E:\Arview\SummerTestApp\SummerTestApp\obj\Debug\android\bin\SummerTestApp.SummerTestApp.apk
+E:\Arview\SummerTestApp\SummerTestApp\obj\Debug\res\layout\main.xml
+E:\Arview\SummerTestApp\SummerTestApp\obj\Debug\res\values\strings.xml
+E:\Arview\SummerTestApp\SummerTestApp\obj\Debug\res\drawable\icon.png
+E:\Arview\SummerTestApp\SummerTestApp\obj\Debug\R.cs.flag
+E:\Arview\SummerTestApp\SummerTestApp\obj\Debug\uploadflags.txt

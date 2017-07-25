@@ -1,0 +1,4 @@
+SummerTestApp.MainActivity, SummerTestApp;md53c4d3353911166457d61186d7a1eb7d7.MainActivity
+SummerTestApp.MainActivity, SummerTestApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md53c4d3353911166457d61186d7a1eb7d7.MainActivity
+SummerTestApp.MainActivity;md53c4d3353911166457d61186d7a1eb7d7.MainActivity
+summertestapp.MainActivity;md53c4d3353911166457d61186d7a1eb7d7.MainActivity
