@@ -1,19 +1,19 @@
 ﻿using Android.App;
 using Android.OS;
+using Android.Support.V7.App;
 
 namespace SummerTestApp.Activity
 {
-    [Activity(Label = "SummerTestApp", MainLauncher = true, Icon = "@drawable/icon")]
-    public class SplashScreen : Android.App.Activity
+    [Activity(Label = "SummerTestApp", MainLauncher = true,Theme="@style/NoSmoking.Theme", Icon = "@drawable/icon")]
+    public class SplashScreen : AppCompatActivity
     {
         protected override void OnCreate(Bundle bundle)
         {
             base.OnCreate(bundle);
 
-            // Set our view from the "main" layout resource
-            // SetContentView (Resource.Layout.Main);
-
-
+            
+            SetContentView (Resource.Layout.splash_screen);
+            StartActivity(typeof(EditData));
         }
     }
 }

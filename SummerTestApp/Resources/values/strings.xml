@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="Hello">Hello World, Click Me!</string>
-    <string name="ApplicationName">SummerTestApp</string>
+    <string name="sig_per_day">Сигарет в cутки:</string>
+    <string name="home_page_data">Дата и время последней сигареты</string>
+    <string name="home_page_current_data">Количественные показатели</string>
+    <string name="packet_price">Цена за пачку:</string>
+    <string name="resin">Смола:</string>
+    <string name="nicotine">Никотин:</string>
+    <string name="save_button">Сохранить</string>
+    <string name="toolbar_title">Бросаем Курить</string>
 </resources>
